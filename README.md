@@ -1,6 +1,1 @@
 # Snack
-
-
-## ** Reference **
-  
-  Zigurous
